@@ -63,7 +63,7 @@ docker exec -it docker_mongo_dev mongosh -u mongo_usr -p mongo_pwd --authenticat
 docker stop docker_mongo_dev
 ```
 
-## Escopo e limitacoes
+## Escopo e limitações
 
 - Esta configuracao e exclusiva para desenvolvimento local.
 - Nao ha persistencia garantida de dados apos parada/remocao.
