@@ -37,7 +37,7 @@ Use a URI abaixo nas aplicacoes locais:
 mongodb://mongo_usr:mongo_pwd@localhost:27017/?authSource=admin
 ```
 
-## Operacao do dia a dia
+## Operação do dia a dia
 
 1. Subir o banco:
 
